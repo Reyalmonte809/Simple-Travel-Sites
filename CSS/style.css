@@ -1,13 +1,14 @@
 body {
     background-color:rgb(156, 248, 248);
-    padding: 20px;
 
 }
 .title {
     font-size: 108pt;
+    color:rgb(98, 134, 163)
 }
  a {
     padding: 3rem;
     margin: 10em;
+    text-decoration: none;
 
  }
