@@ -1,7 +1,13 @@
 body {
     background-color:rgb(156, 248, 248);
+    padding: 20px;
 
 }
 .title {
     font-size: 108pt;
 }
+ a {
+    padding: 3rem;
+    margin: 10em;
+
+ }
