@@ -1,14 +1,50 @@
 body {
     background-color:rgb(156, 248, 248);
+    
 
 }
 .title {
-    font-size: 108pt;
+    font-size: 59pt;
     color:rgb(98, 134, 163)
 }
  a {
-    padding: 3rem;
-    margin: 10em;
+    display: flex;
+    justify-content: flex-end;
     text-decoration: none;
+    background-color: turquoise;
+    border-radius: 1rem;
+    font-size: large;
 
  }
+
+ p {
+    margin: 1rem;
+    padding-top: 1rem;
+    font-size: 20pt;
+    font-family: cursive;
+ }
+ 
+
+
+ table {
+   font-family: sans-serif;
+   color: blue;
+   background-color: white;
+   text-align: center;
+    
+ }
+ 
+ img {
+    width: 40%;
+    height:20vw;
+    padding: 10px;
+    margin-left: 30px;
+    
+    
+   
+ }
+  h2{
+    text-align: center;
+    color: lightcoral;
+    font-size: 30pt;
+  }
