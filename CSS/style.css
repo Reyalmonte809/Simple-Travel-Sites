@@ -7,13 +7,13 @@ body {
     font-size: 59pt;
     color:rgb(98, 134, 163)
 }
- a {
-    display: flex;
-    justify-content: flex-end;
-    text-decoration: none;
-    background-color: turquoise;
-    border-radius: 1rem;
-    font-size: large;
+ nav {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+    border: solid;
 
  }
 
@@ -45,6 +45,13 @@ body {
  }
   h2{
     text-align: center;
-    color: lightcoral;
+    color: lightpink;
     font-size: 30pt;
+  }
+
+  a{
+    background-color: coral;
+    padding: 1REM;
+    margin: 1rem;
+    border-radius: 1rem;
   }
