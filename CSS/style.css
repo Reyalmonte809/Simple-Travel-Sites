@@ -23,7 +23,7 @@ body {
     font-size: 20pt;
     font-family: cursive;
  }
- 
+
 
 
  table {
@@ -31,6 +31,7 @@ body {
    color: blue;
    background-color: white;
    text-align: center;
+   margin-left: 15rem ;
     
  }
  
